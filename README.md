@@ -1,5 +1,8 @@
 # NITK Student Profile Portal
 
+Open the Figma file [link](https://www.figma.com/design/u3NYxCn4JlE6TNP1ppqabp/WEC-REC-UI?node-id=0-1&t=8gUIv1rekloT0D1c-1
+).
+
 This project is a high-fidelity UI/UX design for a centralized **Student Profile Portal** for NITK (National Institute of Technology Karnataka). The portal allows students to manage and showcase their academics, clubs, research work, internships, skills, projects, and more. The platform also serves as a comprehensive database for the institution to track and maintain student profiles efficiently.
 
 ## Features
